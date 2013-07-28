@@ -179,7 +179,6 @@ p {
     transform: rotate(-3deg);
 }
 
-
 .ribbon {
     padding: 0 25px;
     height: 80px;
@@ -190,10 +189,10 @@ p {
     background-color: rgb(27, 28, 29);
     background-image: -webkit-gradient(linear, left top, left bottom, from(rgb(27, 28, 29)), to(rgb(157, 161, 166)));
     background-image: -webkit-linear-gradient(top, rgb(27, 28, 29), rgb(157, 161, 166));
-    background-image:    -moz-linear-gradient(top, rgb(27, 28, 29), rgb(157, 161, 166));
-    background-image:     -ms-linear-gradient(top, rgb(27, 28, 29), rgb(157, 161, 166));
-    background-image:      -o-linear-gradient(top, rgb(27, 28, 29), rgb(157, 161, 166));
-    background-image:         linear-gradient(top, rgb(27, 28, 29), rgb(157, 161, 166));
+    background-image: -moz-linear-gradient(top, rgb(27, 28, 29), rgb(157, 161, 166));
+    background-image: -ms-linear-gradient(top, rgb(27, 28, 29), rgb(157, 161, 166));
+    background-image: -o-linear-gradient(top, rgb(27, 28, 29), rgb(157, 161, 166));
+    background-image: linear-gradient(top, rgb(27, 28, 29), rgb(157, 161, 166));
 
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 
@@ -208,9 +207,9 @@ p {
     line-height: 80px;
     text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);
 
-    -moz-box-shadow:        -7px 7px 0px rgba(0, 0, 0, 0.3);
-    -webkit-box-shadow:    	-7px 7px 0px rgba(0, 0, 0, 0.3);
-    box-shadow:             -7px 7px 0px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: -7px 7px 0px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: -7px 7px 0px rgba(0, 0, 0, 0.3);
+    box-shadow: -7px 7px 0px rgba(0, 0, 0, 0.3);
 
     border-bottom-right-radius: 20px 5px;
 }
